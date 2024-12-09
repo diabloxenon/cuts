@@ -4,5 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Constant Uniformity Time Scale"
 license = "Apache 2.0 or MIT"
+repository = "https://github.com/diabloxenon/cuts"
+exclude = ["target/*", "bak/*"]
 
 [dependencies]
