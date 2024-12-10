@@ -8,3 +8,4 @@ repository = "https://github.com/diabloxenon/cuts"
 exclude = ["target/*", "bak/*"]
 
 [dependencies]
+rand = "0.8.5"
